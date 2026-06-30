@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousef Ali</h1>
-<h3 align="center">A flutter developer and senior student in FCISCU👨‍💻</h3>
+<h3 align="center">A junior flutter developer👨‍💻</h3>
 
 - 🌱 I’m currently learning **Clean architecture**
 
